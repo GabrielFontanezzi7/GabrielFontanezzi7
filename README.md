@@ -5,7 +5,7 @@ Sobre mim:
 - 🔭 Estou desenvolvendo desde 2023
 - 🌱 Java, Js, PHP, NodeJs, React
 - 👯 Estou procurando um emprego
-- 📫 How to reach me: https://www.linkedin.com/in/gabriel-fontanezzi/
+- 📫 Contato: https://www.linkedin.com/in/gabriel-fontanezzi/
 
 Linguagens:
 Python, Django, Flask, Ia, Java
